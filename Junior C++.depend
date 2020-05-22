@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1590122198 source:d:\c++ project\junior c++\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	"stack.h"
+	"queue.h"
+	"linkedlist.h"
+
+1589896822 d:\c++ project\junior c++\stack.h
+	<iostream>
+
+1589891660 d:\c++ project\junior c++\queue.h
+	<iostream>
+
+1590118561 d:\c++ project\junior c++\linkedlist.h
+	<iostream>
+
